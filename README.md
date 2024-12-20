@@ -1,4 +1,4 @@
-# Taller-19- Grpo 03
+# Taller 18 - Grpo 03
 
 ## Descripción del Proyecto
 Este proyecto es una aplicación creada con React utilizando Vite como herramienta de construcción. Contiene cinco componentes personalizados que son invocados dentro del componente principal de la aplicación.
